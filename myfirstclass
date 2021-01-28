@@ -7,4 +7,6 @@ class person {
     {
         return (this.name + this.age.toString() + this.height.toString());
     }
+
+    private another class
 }
