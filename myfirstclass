@@ -1,0 +1,10 @@
+class person {
+    string name;
+    int age;
+    double height;
+
+    private void retall
+    {
+        return (this.name + this.age.toString() + this.height.toString());
+    }
+}
